@@ -3,7 +3,6 @@ import java.net.*;
 import java.io.*;
 
 public class Client {
-
     static BufferedReader in;
     public static void main(String[] args) {
         String host = "localhost";
